@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Raw datasets
+data/*
+!data/README.md
+
+# Generated artifacts and large serialized objects
+*.joblib
+*.pkl
+*.npz
+*.npy
+*.zip
+models/*
+!models/README.md
+
+# Generated plots and logs
+outputs/
+logs/
+
