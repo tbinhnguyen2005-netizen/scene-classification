@@ -1,0 +1,15 @@
+{
+  "dataset": "15-Scene Dataset",
+  "total_images": 4485,
+  "train_images": 3588,
+  "test_images": 897,
+  "classes": 15,
+  "ensemble_accuracy": 0.8539576365663322,
+  "fusion_weights": {
+    "sp_vlad": 2.0,
+    "ifv": 2.0,
+    "hog": 0.25,
+    "lbp": 0.25,
+    "hsv_color_histogram": 0.75
+  }
+}

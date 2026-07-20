@@ -1,0 +1,9 @@
+metric,value
+test_accuracy,0.8539576365663322
+macro_precision,0.85
+macro_recall,0.85
+macro_f1,0.85
+weighted_f1,0.85
+test_images,897
+classes,15
+
